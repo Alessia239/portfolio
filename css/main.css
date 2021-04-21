@@ -262,7 +262,9 @@ footer a:not(.nav-link) {
   }
 }
 
-.neon{
-  position: -ms-page;
+#contact{
+  text-align:center;
 }
+
+
 
