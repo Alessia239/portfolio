@@ -70,10 +70,10 @@ html, body {
      object-fit: cover;
   width: auto; }
 
-/*.progress-bar {
+.progress-bar {
   text-transform: uppercase;
   font-size: 10px;
-  letter-spacing: 1px; }*/
+  letter-spacing: 1px; }
 
 .text-small {
   font-size: 0.85rem; }
@@ -112,7 +112,7 @@ footer a:not(.nav-link) {
     opacity: 1 !important;
     transform: translate(0) scale(1) !important; }
   body.bg-light {
-    background-color: #495867 !important; }
+    background-color: #BDD5EA !important; }
   .container {
     width: auto;
     max-width: 100%;
