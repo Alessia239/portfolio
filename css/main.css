@@ -262,3 +262,7 @@ footer a:not(.nav-link) {
   }
 }
 
+.neon{
+  position: -ms-page;
+}
+
